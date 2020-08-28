@@ -12,7 +12,7 @@ Run: main.py file
 other files: 
 
 datafetch.py for fetching the data from the website
-It login to the website, target various elements to get the required months and download the files that contain data.
+After login it goes to the website, target various elements to get the required months and download the files that contain data.
 
 storedata.py for storing the data in the database
 It creates tables in the #arthadatabase and then stores the data from csv files to mysql database
